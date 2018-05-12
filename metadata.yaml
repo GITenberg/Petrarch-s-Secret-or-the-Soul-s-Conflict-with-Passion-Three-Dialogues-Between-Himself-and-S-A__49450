@@ -1,9 +1,13 @@
 _repo: Petrarch-s-Secret-or-the-Soul-s-Conflict-with-Passion-Three-Dialogues-Between-Himself-and-S-A__49450
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Draper, William H.
     gutenberg_agent_id: '45346'
     url: http://www.gutenberg.org/2009/agents/45346
+covers:
+- cover_type: archival
+  image_path: 49450-h/images/cover.jpg
 creator:
   author:
     agent_name: Petrarca, Francesco
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7519
     wikipedia: http://en.wikipedia.org/wiki/Petrarch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49450#Petrarch-s-Secret-or-the-Soul-s-Conflict-with-Passion-Three-Dialogues-Between-Himself-and-S-A_
 gutenberg_issued: '2015-07-16'
 gutenberg_type: Text
 identifiers:
